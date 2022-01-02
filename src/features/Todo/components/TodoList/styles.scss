@@ -1,0 +1,10 @@
+.completed{
+    font-style: italic;
+    text-decoration: line-through;
+}
+.item{
+    display: flex;
+    align-items: center;
+    max-width: 150px;
+    justify-content: space-between;
+}
