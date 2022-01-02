@@ -59,7 +59,7 @@ function TodoFeature() {
 
     return (
         <div>
-            <button onClick={handleFil}>Filter new</button>
+            <button onClick={handleFil}>Filter New</button>
             <button onClick={handleFil1}>Filter complete</button>
             <button onClick={handleFil2}>Filter All</button>
             <TodoList
